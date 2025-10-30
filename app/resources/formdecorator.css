@@ -1,0 +1,56 @@
+/* Efeito de destaque para o botão Salvar */
+.btn-salvar-destaque {
+   transition: box-shadow 0.2s, transform 0.2s;
+   box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+.btn-salvar-destaque:hover {
+   box-shadow: 0 4px 16px rgba(0,0,0,0.25);
+   transform: scale(1.08);
+   background-color: #218838 !important;
+   color: #fff !important;
+}
+/*
+.formwrapper
+{
+   background: #fffefe;
+   margin: 0px;
+   padding: 17px;
+   width: 100%;
+   border: solid 1px #6adfc6;
+   //box-shadow: 0 1px 10px rgba(0,0,0, .3);
+   //text-decoration-color: #000000;
+
+}
+
+.formtitle
+{
+   background: #55bedf;
+   color: white;
+   font-weight: bold;
+   margin: 0px;
+   padding: 17px;
+   width: 100%;
+   border: solid 1px #b4b4b4;
+
+}
+
+*/
+.savebutton
+{
+   background: #729dec;
+   color: rgb(255, 255, 255);
+   /*font-weight:lighter;*/
+   margin: 25px;
+   padding: 10px;
+   width: 100px;
+   border-radius: 20px;
+   border: solid 1px #b4b4b475;
+
+}
+
+.savebutton:hover
+{
+   background-color: aqua;
+
+
+}

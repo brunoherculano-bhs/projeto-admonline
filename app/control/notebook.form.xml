@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+    <tnotebook id="0">
+        <class>TNotebook</class>
+        <name>notebook</name>
+        <x>20</x>
+        <y>25</y>
+        <width>1298</width>
+        <height>548</height>
+        <pages>
+            <tpanel id="1" tab="Dados do Colaborador"/>
+            <tpanel id="2" tab="Endereço e Contato"/>
+            <tpanel id="3" tab="Estrangeiro"/>
+            <tpanel id="4" tab="Vale Transporte"/>
+            <tpanel id="5" tab="Fardamento"/>
+            <tpanel id="6" tab="Informações Bancárias"/>
+            <tpanel id="7" tab="Dependentes"/>
+            <tpanel id="8" tab="Deficiência"/>
+            <tpanel id="9" tab="Documentos"/>
+            <tpanel id="10" tab="Finalização"/>
+        </pages>
+    </tnotebook>
+</form>
